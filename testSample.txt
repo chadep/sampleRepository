@@ -6,6 +6,15 @@ test
 
 test
 
+read
+read
+read
+read
+edit
+edit
+edit
+edit
+
 write
 
 write
